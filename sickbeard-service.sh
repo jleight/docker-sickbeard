@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ ! -f "${APP_CONFIG}/sickbeard.ini" ]; then
+if [ ! -f "${APP_CONFIG}/config.ini" ]; then
   cat <<EOF > "${APP_CONFIG}/config.ini"
 [General]
 log_dir = ${APP_DATA}/logs
