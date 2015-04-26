@@ -1,7 +1,7 @@
 sickbeard
 =========
 
-The sonarr image runs [Sick Beard](http://sickbeard.com/) on top of the
+The sickbeard image runs [Sick Beard](http://sickbeard.com/) on top of the
 [jleight/phusion-python](https://registry.hub.docker.com/u/jleight/phusion-python/)
 container.
 
